@@ -1,6 +1,8 @@
-//RebaseTest
-//fetch Test
 
+//pull Test
+//local test
+//fetch Test
+//push
 class HelloWorld{
 	public static void main(String[] args)
 	{
