@@ -1,4 +1,6 @@
 //RebaseTest
+//fetch Test
+
 class HelloWorld{
 	public static void main(String[] args)
 	{
