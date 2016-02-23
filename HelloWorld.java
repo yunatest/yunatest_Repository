@@ -1,8 +1,4 @@
-
-//pull Test
-//local test
-//fetch Test
-//push
+//tag 2.0
 class HelloWorld{
 	public static void main(String[] args)
 	{
