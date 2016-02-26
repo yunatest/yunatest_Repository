@@ -1,6 +1,7 @@
 //local
 //remote
 //gitTest
+//from local
 class hello{
 	public static void main(String[] args)
 	{
